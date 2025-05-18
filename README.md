@@ -1,7 +1,7 @@
 
 # 🌍 IoT Sensor Dashboard Project – Power BI + Streamlit
 
-This project demonstrates a real-world **data dashboard system** for IoT sensor data, originally generated from simulated or real devices (I2C, SPI, BLE, Wi-Fi). It showcases both **no-code (Power BI)** and **code-first (Streamlit)** approaches — ideal for field monitoring and UNDP-style operational use cases.
+This project demonstrates a real-world **data dashboard system** for IoT sensor data, originally generated from simulated or real devices (I2C, SPI, BLE, Wi-Fi). It showcases both **no-code (Power BI)** and **code-first (Streamlit)** approaches — ideal for field monitoring operational use cases.
 
 ---
 
