@@ -54,7 +54,7 @@ Unified JSON → Cleaned CSV
 |------|---------|
 | `cleaned_sensor_data.csv` | Cleaned, flattened sensor data |
 | `streamlit_sensor_dashboard.py` | Streamlit app script |
-| `PowerBI_Report.pbix` | Optional Power BI file (if added) |
+| `PowerBI_Report.pbix` | Optional Power BI file |
 | `README_UNDP_Dashboard.md` | This explanation |
 
 ---
