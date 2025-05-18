@@ -89,6 +89,6 @@ streamlit run streamlit_sensor_dashboard.py
 ## 📬 Author
 
 👩‍💻 Nidhi Shah  
-📧 [add your email or LinkedIn here]  
-🎓 M.Sc. in Computer Engineering for IoT Systems  
-🏢 Hochschule Nordhausen | TU Dortmund  
+📧 nidhijshah95@gmail.com
+🎓 Master's in Computer Engineering for IoT Systems  
+🏢 Hochschule Nordhausen 
