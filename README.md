@@ -59,13 +59,13 @@ Unified JSON → Cleaned CSV
 
 ---
 
-## 🧠 Why This Project Is Relevant for UNDP
-
-- Shows **data pipeline handling** from raw JSON to structured dashboards
-- Includes both **technical (Streamlit)** and **non-technical (Power BI)** UIs
-- Simulates a **field-monitoring dashboard for energy/sensor data**
-- Entirely built using **free, open-source or student-accessible tools**
-
+## 🌐 Why This Project Matters
+ 
+- Demonstrates end-to-end data pipeline handling — from raw JSON to structured insights
+- Combines technical (Streamlit) and non-technical (Power BI) tools to serve diverse user needs
+- Simulates a field-ready dashboard for real-time sensor or energy data monitoring
+- Built entirely using free, open-source, and student-accessible technologies
+  
 ---
 
 ## 🚀 To Run Streamlit App
